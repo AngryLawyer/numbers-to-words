@@ -10,6 +10,13 @@ $ npm run build
 $ npm start
 ```
 
+If you want to provide your own bounds
+
+```
+$ npm start [lower]
+$ npm start [lower] [higher]
+```
+
 ## Unit tests
 
 ```
